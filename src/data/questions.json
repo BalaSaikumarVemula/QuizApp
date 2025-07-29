@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": ["90°C", "100°C", "80°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "Leo Tolstoy", "William Shakespeare", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Which organ in the human body pumps blood?",
+    "options": ["Lungs", "Brain", "Heart", "Liver"],
+    "answer": "Heart"
+  },
+  {
+    "question": "Which company developed the React framework?",
+    "options": ["Google", "Facebook", "Microsoft", "Twitter"],
+    "answer": "Facebook"
+  },
+  {
+    "question": "What is the largest continent on Earth?",
+    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which element has the chemical symbol O?",
+    "options": ["Gold", "Oxygen", "Iron", "Osmium"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which Indian cricketer is known as 'The Wall'?",
+    "options": ["Virat Kohli", "Sachin Tendulkar", "Rahul Dravid", "MS Dhoni"],
+    "answer": "Rahul Dravid"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Program Unit", "Central Processing Unit", "Control Panel Utility", "Central Process Utility"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": ["1945", "1939", "1918", "1950"],
+    "answer": "1945"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "Which programming language is used for Android development?",
+    "options": ["Swift", "Kotlin", "JavaScript", "C#"],
+    "answer": "Kotlin"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Mars", "Saturn", "Earth"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyperlink Text Main Language", "Home Tool Markup Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": ["206", "210", "201", "220"],
+    "answer": "206"
+  }
+]
